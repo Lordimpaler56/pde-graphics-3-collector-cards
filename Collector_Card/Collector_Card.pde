@@ -26,11 +26,11 @@ void draw() {
 
   rect(1,315,400,100);
   
-  rect(400,
+  ellipse(600,400,20,20);
 
   fill(0); 
-  text("Character: Vegeta, Prince of all saiyans", 100, 100);
-  text("Stat Power level: 5.3 billion", 100, 115);
-  text("Special ability: Final Flash", 100, 130);
+  text("Character: Vegeta, Prince of all saiyans", 20, 360);
+  text("Stat Power level: 5.3 billion", 20, 380);
+  text("Special ability: Final Flash", 20, 400);
   
 }
